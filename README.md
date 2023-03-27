@@ -86,6 +86,8 @@ sns.histplot(x='Postal Code',data=df)
 
 ## dtypes:
 
+![Screenshot from 2023-03-27 14-21-32](https://user-images.githubusercontent.com/118889143/227892836-58377628-67d7-42f3-993f-93f280cd0326.png)
+
 
 
 ## Valuecount:
